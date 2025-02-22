@@ -1,0 +1,5 @@
+[deps]
+MAGEMin_C = "e5d170eb-415a-4524-987b-12f1bce1ddab"
+
+[compat]
+julia = "1.6"
